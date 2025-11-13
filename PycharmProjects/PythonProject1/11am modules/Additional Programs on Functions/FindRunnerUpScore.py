@@ -16,6 +16,6 @@ def getrunnerupscore():
         score=sorted(set(scores))
         print("Unique Score Values")
         print(score)
-        print("Runner Up Score={}".format(scores[-2]))
+        print("Runner Up Score={}".format(scores[-2a]))
 #main program
 getrunnerupscore()
