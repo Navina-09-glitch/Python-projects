@@ -1,5 +1,5 @@
 #Program for finding biggest of list of Values
-import functools
+import functools #predefined module
 def bigv(k,v):
     if(k>v):
         return k

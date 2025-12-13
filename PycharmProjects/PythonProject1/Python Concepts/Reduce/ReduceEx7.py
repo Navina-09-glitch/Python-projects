@@ -1,5 +1,5 @@
 #Program for getting line of text from list of words
-import functools
+import functools #predefined module
 def kvrjoin(k,v):
     return (k+" "+v)
 #Main Program

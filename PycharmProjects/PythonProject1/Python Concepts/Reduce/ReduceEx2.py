@@ -1,5 +1,5 @@
 #Program for finding sum of list of values
-import functools
+import functools #predefined module
 def sumop(x,y):
     return (x+y)
 

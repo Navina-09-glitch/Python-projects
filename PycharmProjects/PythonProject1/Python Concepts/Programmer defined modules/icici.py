@@ -1,6 +1,7 @@
 #icici.py<-----File Name and Module Name
 bname="ICICI"
-addr="AMPT-HYD" # here bname and addr is called global variable names
+addr="Bangalore-India" # here bname and addr is called global variable names
+x=100
 def  simpleint(): # Function Definition
     p = float(input("Enter Principle Amount:"))
     t = float(input("Enter Time:"))

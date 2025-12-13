@@ -1,5 +1,5 @@
 #Program for finding biggest of list of values
-import functools
+import functools #predefined module
 lst=list(map(float,input("Enter list of values separated by space:").split()))
 print("Given Values")
 print(lst)
