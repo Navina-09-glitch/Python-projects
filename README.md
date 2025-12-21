@@ -1,8 +1,8 @@
-# Python Concept Programs
+🐍 Python Concept Programs
+This repository contains Python programs that demonstrate fundamental concepts of the language.
+All programs are designed to read data dynamically from the keyboard and illustrate step‑by‑step execution.
 
-This repository contains Python programs demonstrating fundamental concepts. All programs are designed to read data dynamically from the keyboard and illustrate how Python works step by step.
-
-Operators and Expressions in Python
+🔢 Operators and Expressions
 Arithmetic Operators → +, -, *, /, %
 
 Assignment Operators → =, +=, -=, *=, /=
@@ -17,78 +17,54 @@ Identity Operators → is, is not
 
 Ternary Operators → Conditional expressions (x if condition else y)
 
-Loops
-for_loop_example.py → Demonstrates iteration using a for loop
+🔁 Loops
+for_loop_example.py → Iteration using a for loop
 
-while_loop_example.py → Demonstrates iteration using a while loop
+while_loop_example.py → Iteration using a while loop
 
-If-Else
-ifelse_example.py → Basic conditional statements
+🌳 Conditional Statements
+ifelse_example.py → Basic if‑else conditions
 
 nested_if_example.py → Nested conditions for complex decision making
 
-Transfer Flow Statements
-break_example.py → Exits a loop prematurely
+🔄 Transfer Flow Statements
+break_example.py → Exit a loop prematurely
 
-continue_example.py → Skips the current iteration and continues with the next
+continue_example.py → Skip current iteration and continue
 
-Nested Loops
-for_in_for.py → for loop inside another for loop
+🔂 Nested Loops
+for_in_for.py → for loop inside another for
 
-while_in_while.py → while loop inside another while loop
+while_in_while.py → while loop inside another while
 
-for_in_while.py → for loop inside a while loop
+for_in_while.py → for loop inside a while
 
-while_in_for.py → while loop inside a for loop
+while_in_for.py → while loop inside a for
 
-Function Approaches
-Approach 1
+🧩 Function Approaches
+Approach 1 → Input from function call → Process inside → Output returned
 
-Input: Taken from function call
+Approach 2 → Input inside function → Process inside → Output produced inside
 
-Process: Inside function body
+Approach 3 → Input from function call → Process inside → Output produced inside
 
-Output: Returned to function call
+Approach 4 → Input inside function → Process inside → Output returned
 
-Approach 2
-
-Input: Taken inside function body
-
-Process: Done inside function body
-
-Output: Produced inside function body
-
-Approach 3
-
-Input: Taken from function call
-
-Process: Inside function body
-
-Output: Produced inside function body
-
-Approach 4
-
-Input: Taken inside function body
-
-Process: Inside function body
-
-Output: Returned to function call
-
-Modules
+📦 Modules
 programmer_defined_modules.py → Creating and importing custom modules
 
-reuse_modules.py → Reusing built-in and custom modules
+reuse_modules.py → Reusing built‑in and custom modules
 
-Exception Handling
+⚠️ Exception Handling
 try_except_example.py → Handling runtime errors gracefully
 
-try_except_finally.py → Using finally to ensure cleanup actions
+try_except_finally.py → Using finally for cleanup actions
 
-multiple_exceptions.py → Catching different types of exceptions
+multiple_exceptions.py → Catching different exception types
 
 raise_exception.py → Raising custom exceptions
 
-File Operations
+📂 File Operations
 file_read_example.py → Reading data from files
 
 file_write_example.py → Writing data to files
@@ -98,3 +74,5 @@ file_append_example.py → Appending data to existing files
 file_seek_tell.py → Demonstrating random access with seek() and tell()
 
 file_with_context.py → Using with statement for safe file handling
+
+csv_example.py → Working with CSV files
